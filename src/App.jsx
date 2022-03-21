@@ -7,7 +7,7 @@ import Movie from './Movie';
 
 
 //1206a049
- const API_URL = "http://www.omdbapi.com?apikey=1206a049";
+ const API_URL = "https://www.omdbapi.com?apikey=1206a049";
 
 /* const movie1 = {
     "Title": "Spiderman and Grandma", 
