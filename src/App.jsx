@@ -9,13 +9,13 @@ import Movie from './Movie';
 //1206a049
  const API_URL = "http://www.omdbapi.com?apikey=1206a049";
 
- const movie1 = {
+/* const movie1 = {
     "Title": "Spiderman and Grandma", 
     "Year": "2009", 
     "imdbID": "tt1433184", 
     "Type": "movie", 
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mzg0MjAxMl5BMl5BanBnXkFtZTcwNjIyODg5Mg@@._V1_SX300.jpg"
-};
+};*/
 
 
 
